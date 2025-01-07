@@ -4,7 +4,7 @@
 
 # Geneză
 
-Totul a început atunci când l-am descoperit pe Nietzsche. Iritat fiind că nu-l puteam înțelege, am decis să mă specializez cât de mult pot în științele cognitive, neuroștiințe și știința învățării. M-am familiarizat cu mai multe tehnici de învățare (_Legea lui Hebb, Ierarhia lui Bloom,_ etc.) și cu alte principii care sunt necesare acestui proces (pauze regulate, cognitive loading, relaxare etc.). Cu toate acestea, nu era suficient.  
+Totul a început atunci când l-am <span style="color:rgb(192, 0, 0)">descoperit</span> pe Nietzsche. Iritat fiind că nu-l puteam înțelege, am decis să mă specializez cât de mult pot în științele cognitive, neuroștiințe și știința învățării. M-am familiarizat cu mai multe tehnici de învățare (_Legea lui Hebb, Ierarhia lui Bloom,_ etc.) și cu alte principii care sunt necesare acestui proces (pauze regulate, cognitive loading, relaxare etc.). Cu toate acestea, nu era suficient.  
 
 Credeam că universul se va prăbuși odată cu mine, că deja încep să văd abisul și să devin abisul, dar asta până când mi-am reamintit de o tehnica de învățare pe care am ignorat-o de-a lungul anilor – **Metoda Feynman**.
 
