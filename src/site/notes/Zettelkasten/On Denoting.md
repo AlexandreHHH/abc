@@ -10,19 +10,7 @@
 |              Bertrand Russel - *On Denoting*              |     |
 | :-------------------------------------------------------: | --- |
 | Alte comentarii asupra textului (articole + videoclipuri) |     |
-# Setarea scopurilor/sarcinilor
-
-# Punere intrebari
-
-# Alipire cu ceva anterior - Neurons that wire together, fire together
-1. Asociere 
-2. Imagine mentala
-3. Mnemonics (Acronime)
-4. Mindmap
-5. Loci house
-6. Poveste
-7. Explica de parca as avea 4 ani
-8. Divizare 
+ 
 # Metoda Feynman
 ## Study
 1. Teza. Cum se raporteaza limbajul la mediul extern.
