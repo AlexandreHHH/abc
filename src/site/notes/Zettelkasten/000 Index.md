@@ -8,7 +8,7 @@
 # Specialitati
 [[Zettelkasten/PROTEST AUTIST - Articol Manifest\|PROTEST AUTIST - Articol Manifest]]
 Scrisoarea I - [[Omnipotenta Selectiva\|Omnipotenta Selectiva]]
-Scrisoarea II - [[Zettelkasten/Being\|Being]]
+Scrisoarea II - [[Zettelkasten/Being and Time\|Being and Time]]
 
 
 
